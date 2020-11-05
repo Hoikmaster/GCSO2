@@ -1,2 +1,2 @@
-# GCSO2
-THANOS IS THE THICCEST PURPLEST GRAPE ON THIS PLANET
+# p5.play-boilerplate
+Boiler plate for p5.play
